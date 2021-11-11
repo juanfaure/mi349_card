@@ -23,7 +23,7 @@ h2{
     margin: 0 auto;
     width: 400px;
     text-align: center;
-    box-shadow: rgba(0, 0, 0, 0.1) 0 0 20px;
+    box-shadow: rgba(0, 0, 0, 0.1) 10 10 1px;
 }
 .card .avatar{
     width: 100px;
